@@ -6,7 +6,9 @@
 > Um sistema de gerenciamento de tarefas em C# usando o padrão de projeto State, permitindo que as tarefas mudem de estado (Criado, Em Progresso, Concluído, Cancelado) via endpoints RESTful. O sistema seguie boas práticas de programação orientada a objetos. Endpoints permitirão criar novas tarefas, atualizar estados e consultar o estado atual das tarefas.
 
  <hr/>
-## 🚨 Requisitos do Sistema
+ 
+ ## 🚨 Requisitos do Sistema
+
 ### Padrão State
 - Implementar padrão State para estados de tarefas.
 - Estados: Criado, Em Progresso, Concluído, Cancelado.
