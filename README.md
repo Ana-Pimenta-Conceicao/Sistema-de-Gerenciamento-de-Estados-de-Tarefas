@@ -1,7 +1,6 @@
 # Sistema de Gerenciamento de Estados de Tarefas
 
 
-<img src="imagem.png" alt="Exemplo imagem">
 
 > Um sistema de gerenciamento de tarefas em C# usando o padrão de projeto State, permitindo que as tarefas mudem de estado (Criado, Em Progresso, Concluído, Cancelado) via endpoints RESTful. O sistema seguie boas práticas de programação orientada a objetos. Endpoints permitirão criar novas tarefas, atualizar estados e consultar o estado atual das tarefas.
 
@@ -50,7 +49,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando Sistema de Gerenciamento de Estados de Tarefas
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar projeto, siga estas etapas:
 
 
   ```
